@@ -1,7 +1,9 @@
-Ans1 = document.querySelector("#Answer1")
-Ans2 = document.querySelector("#Answer2")
-Ans3 = document.querySelector("#Answer3")
-Ans4 = document.querySelector("#Answer4")
-Questions = document.querySelector(".Questions")
-HighScores = document.querySelector("header")
-Time = document.querySelector("h1")
+ var Ans1 = document.querySelector("#answer1");
+var Ans2 = document.querySelector("#answer2");
+var Ans3 = document.querySelector("#answer3");
+var Ans4 = document.querySelector("#answer4");
+var Questions = document.querySelector("#questions");
+var HighScores = document.querySelector("#Highscores");
+var Timer = document.querySelector("#timer");
+var startBtn = document.querySelector("#Start");
+ var clearBtn = document.querySelector("#Clear");
