@@ -1,0 +1,7 @@
+Ans1 = document.querySelector("#Answer1")
+Ans2 = document.querySelector("#Answer2")
+Ans3 = document.querySelector("#Answer3")
+Ans4 = document.querySelector("#Answer4")
+Questions = document.querySelector(".Questions")
+HighScores = document.querySelector("header")
+Time = document.querySelector("h1")
