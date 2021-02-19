@@ -1,37 +1,4 @@
 * {
     box-sizing: border-box;
 }
-#timer {
-    text-align:right;
-    font-weight: bolder;
-    font-size: 20px;
-    margin-right:40px;
-}
-#Highscore {
-    font-weight: bolder;
-    font-size: 20px;
-    margin-left:40px; 
-    margin-top: -25px;
 
-}
-h1 {
-    text-align:center
-}
-p {
-    font-size: 28px;
-    text-align:center;
-}
-li {
-    text-align:center;
-    list-style-type:none;
-    height: 50px;
-    padding: 20px;
-    font-size: 40px;
-    
-
-}
-
-section {
-    text-align:center;
-    margin: 50px;
-}
